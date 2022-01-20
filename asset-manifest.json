@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React-DJIA-Chart/static/css/main.36562142.css",
+    "main.js": "/React-DJIA-Chart/static/js/main.6aebe242.js",
+    "static/js/787.e308fd2b.chunk.js": "/React-DJIA-Chart/static/js/787.e308fd2b.chunk.js",
+    "static/media/flat.gif": "/React-DJIA-Chart/static/media/flat.5e531c0a2415fcfa31df.gif",
+    "static/media/veryfastdown.gif": "/React-DJIA-Chart/static/media/veryfastdown.78ff1bc361e33396a8d6.gif",
+    "static/media/fastdown.gif": "/React-DJIA-Chart/static/media/fastdown.34e4f5408d074c56f4e9.gif",
+    "static/media/veryfastup.gif": "/React-DJIA-Chart/static/media/veryfastup.522130fd43ffec3ff57d.gif",
+    "static/media/fastup.gif": "/React-DJIA-Chart/static/media/fastup.5df24f715946d9bc347d.gif",
+    "static/media/Bitcoin_Logo2.png": "/React-DJIA-Chart/static/media/Bitcoin_Logo2.3b43c0e313f518f462a5.png",
+    "static/media/background.svg": "/React-DJIA-Chart/static/media/background.edaa102b46e70121c643479c890b7635.svg",
+    "index.html": "/React-DJIA-Chart/index.html",
+    "static/media/ArrowDown.svg": "/React-DJIA-Chart/static/media/ArrowDown.a4fa8115f7c250e6c5ba549d222050d6.svg",
+    "static/media/ArrowUp.svg": "/React-DJIA-Chart/static/media/ArrowUp.3f11044b5528c376d7a3655d684ddb15.svg",
+    "main.36562142.css.map": "/React-DJIA-Chart/static/css/main.36562142.css.map",
+    "main.6aebe242.js.map": "/React-DJIA-Chart/static/js/main.6aebe242.js.map",
+    "787.e308fd2b.chunk.js.map": "/React-DJIA-Chart/static/js/787.e308fd2b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36562142.css",
+    "static/js/main.6aebe242.js"
+  ]
+}
