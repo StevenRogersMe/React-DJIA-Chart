@@ -1,0 +1,13 @@
+.highcharts-label > text{
+  color: white !important;
+  fill: white !important;
+}
+
+.highcharts-range-selector-buttons > text {
+  color: white !important;
+  fill: white !important;
+}
+
+.highcharts-tooltip-box{
+  padding: 20px;
+}
